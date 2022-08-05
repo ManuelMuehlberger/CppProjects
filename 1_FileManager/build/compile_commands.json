@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/file.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/file.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/file.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/document.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/document.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/document.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/image.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/image.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/image.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/audio.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/audio.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/audio.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/video.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/video.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/video.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/libFileManager.dir/fileManager.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/fileManager.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/fileManager.cpp"
+},
+{
+  "directory": "/Users/manu/Downloads/CppProjects/1_FileManager/build",
+  "command": "/usr/bin/clang++  -I/Users/manu/Downloads/CppProjects/1_FileManager -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++17 -o CMakeFiles/fileManager.dir/main.cpp.o -c /Users/manu/Downloads/CppProjects/1_FileManager/main.cpp",
+  "file": "/Users/manu/Downloads/CppProjects/1_FileManager/main.cpp"
+}
+]

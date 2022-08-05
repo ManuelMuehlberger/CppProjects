@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibThreadedLogger.a CMakeFiles/libThreadedLogger.dir/monitor.cpp.o CMakeFiles/libThreadedLogger.dir/logger.cpp.o
+/usr/bin/ranlib liblibThreadedLogger.a

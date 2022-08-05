@@ -1,0 +1,4 @@
+/Users/manu/Downloads/HW12/build/CMakeFiles/libThreadedLogger.dir
+/Users/manu/Downloads/HW12/build/CMakeFiles/threadedLogger.dir
+/Users/manu/Downloads/HW12/build/CMakeFiles/edit_cache.dir
+/Users/manu/Downloads/HW12/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/Users/manu/Downloads/CppProjects/1_FileManager/build/CMakeFiles/libFileManager.dir
+/Users/manu/Downloads/CppProjects/1_FileManager/build/CMakeFiles/fileManager.dir
+/Users/manu/Downloads/CppProjects/1_FileManager/build/CMakeFiles/edit_cache.dir
+/Users/manu/Downloads/CppProjects/1_FileManager/build/CMakeFiles/rebuild_cache.dir

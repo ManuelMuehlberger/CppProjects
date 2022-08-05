@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibFileManager.a CMakeFiles/libFileManager.dir/file.cpp.o CMakeFiles/libFileManager.dir/document.cpp.o CMakeFiles/libFileManager.dir/image.cpp.o CMakeFiles/libFileManager.dir/audio.cpp.o CMakeFiles/libFileManager.dir/video.cpp.o CMakeFiles/libFileManager.dir/fileManager.cpp.o
+/usr/bin/ranlib liblibFileManager.a

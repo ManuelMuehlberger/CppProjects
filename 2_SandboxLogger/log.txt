@@ -1,0 +1,19 @@
+Commencing logging for directory: "/Users/manu/Downloads/HW12"
+Current time is: Fri Aug  5 21:16:33 2022
+
+ + 	 File was added:    ./sandbox/1
+ + 	 File was added:    ./sandbox/1/1
+ + 	 File was added:    ./sandbox/2
+ + 	 File was added:    ./sandbox/2/1
+ ~ 	 File was deleted:  ./sandbox/1/1
+ ~ 	 File was deleted:  ./sandbox/1
+ + 	 File was added:    ./sandbox/3
+ + 	 File was added:    ./sandbox/3/1
+ + 	 File was added:    ./sandbox/3/1/2
+ + 	 File was added:    ./sandbox/3/1/2/3
+ + 	 File was added:    ./sandbox/3/1/2/2
+ ~ 	 File was deleted:  ./sandbox/3/1/2/2
+ ~ 	 File was deleted:  ./sandbox/3/1/2/3
+ ~ 	 File was deleted:  ./sandbox/3/1/2
+ ~ 	 File was deleted:  ./sandbox/3/1
+ ! 	 File was modified: ./sandbox/3
