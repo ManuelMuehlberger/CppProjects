@@ -1,0 +1,7 @@
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/CMakeFiles/resource_generator.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/CMakeFiles/presenter_map_diamond_mipmap_splatmap.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/CMakeFiles/edit_cache.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/CMakeFiles/rebuild_cache.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/shaders/CMakeFiles/shaders_.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/shaders/CMakeFiles/edit_cache.dir
+/Users/manu/Documents/Studium/4. Semester(SS21)/IN0039v2/Projekte/robinNew/framework/Assignments/Assignment_03/shaders/CMakeFiles/rebuild_cache.dir
