@@ -12,6 +12,7 @@ a program which can monitor the creation, modification, and deletion of files wi
 3_TerrainGenerator_diamondsquare
 ================================
 This was part of an assigment of an university course on computer graphics with the goal of random terrain generation. Both required and optional arguments can be specified through a command-line-interface. The program applies the Diamond-Square-algorithm for random heightmap-generation. From this heightmap, a map of the surface normals and a splatmap (Interpolation of a set of textures depending on factors like height or steepness) can be calculated. Because this project relies heavily on Vulcan-SDK and other potentionally proprietary libraries provided by the organising faculty, I can sadly only offer it in non-running fashion. But I hope it still serves its purpose as a means of demonstration.
+
 4_recursiveTemplates
 ====================
 A very small project which can recursively calculate fibonacci using *recursive templates*. It can also calculate the greatest common divisor or minimum common multiple of n numbers with *variadic templates* at *compile time*. Example usage can be found in `main.cpp`.
