@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rectemplatesLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rectemplatesLib-Debug-30e990ba1499fc7d04cb.json",
+					"name" : "rectemplatesLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursivetemplates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursivetemplates-Debug-0f4d2adfbef5cdd256fa.json",
+					"name" : "recursivetemplates",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/manu/Downloads/CppProjects/4_recursiveTemplates/build",
+		"source" : "/Users/manu/Downloads/CppProjects/4_recursiveTemplates"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

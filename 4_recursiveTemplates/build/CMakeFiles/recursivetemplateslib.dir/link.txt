@@ -1,0 +1,2 @@
+/usr/bin/ar qc librecursivetemplateslib.a CMakeFiles/recursivetemplateslib.dir/main.cpp.o
+/usr/bin/ranlib librecursivetemplateslib.a

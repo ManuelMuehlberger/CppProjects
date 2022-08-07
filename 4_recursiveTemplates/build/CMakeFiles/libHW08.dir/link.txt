@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibHW08.a 
+/usr/bin/ranlib liblibHW08.a

@@ -1,0 +1,4 @@
+/Users/manu/Downloads/CppProjects/4_recursiveTemplates/CMakeFiles/rectemplatesLib.dir
+/Users/manu/Downloads/CppProjects/4_recursiveTemplates/CMakeFiles/recursivetemplates.dir
+/Users/manu/Downloads/CppProjects/4_recursiveTemplates/CMakeFiles/edit_cache.dir
+/Users/manu/Downloads/CppProjects/4_recursiveTemplates/CMakeFiles/rebuild_cache.dir

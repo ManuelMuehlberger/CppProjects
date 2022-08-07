@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblibHW08.a 
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblibHW08.a
